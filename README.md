@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vyral</h1>
 <h3 align="center">A passionate frontend and backend developer from United States</h3>
 
-- 🌱 I’m currently learning ** Unity to get into Game Developmen**
+- 🌱 I’m currently learning ** Unity to get into Game Development**
 
 - 👨‍💻 All of my projects are available at [vyral.dev](vyral.dev)
 
